@@ -2,7 +2,15 @@
 
 Live Test Widget: 
 
-https://jsfiddle.net/#&togetherjs=cQwomeKwnK
+https://www.w3schools.com/code/tryit.asp?filename=GKPL8L9COM6J
 
-Code will take some time to compile when testing, this is due to the demo envioronment. 
+Code will take some time to compile when testing, this is due to the demo envioronment. Hit run when ready to test the form. 
+This form will send a ticket directly into Lane's ZenDesk account. 
 
+URL: Joinlane.zendesk.com
+https://joinlane.zendesk.com/agent/tickets/572
+
+Answerbot will also reccomend article via email to request sumbmitter in maintaining self server. 
+
+The YourStudio SHORTCODE, should be pasted within the Header of the page you'd like it to appear. 
+ZenDesk's current widget must be removed and replaced with this, only on YourStudio.App
