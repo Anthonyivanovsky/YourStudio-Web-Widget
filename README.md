@@ -14,3 +14,10 @@ Answerbot will also reccomend article via email to request sumbmitter in maintai
 
 The YourStudio SHORTCODE, should be pasted within the Header of the page you'd like it to appear. 
 ZenDesk's current widget must be removed and replaced with this, only on YourStudio.App
+
+Nov 18, 2020 Updates:
+
+Cleanup form data fields
+Pull source URL, submitted from (Will allow us to determine user channel)
+Connect submissions to the following Google Sheets to automatically update upon submission:
+https://docs.google.com/spreadsheets/d/1fPBIwtw36yEapvPzZuAEqsdKu1IX6lv6vwJYqUnQ6gw/edit?usp=sharing
