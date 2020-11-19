@@ -16,7 +16,6 @@ The YourStudio SHORTCODE, should be pasted within the Header of the page you'd l
 ZenDesk's current widget must be removed and replaced with this, only on YourStudio.App
 
 Nov 18, 2020 Updates:
-
 Cleanup form data fields
 Pull source URL, submitted from (Will allow us to determine user channel)
 Connect submissions to the following Google Sheets to automatically update upon submission:
